@@ -1,2 +1,4 @@
 # hello-world
-Intro tu Git Hub
+Intro to Git Hub
+
+My first Git Hub
